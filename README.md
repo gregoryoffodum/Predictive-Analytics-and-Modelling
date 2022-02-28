@@ -1,4 +1,4 @@
-# Predictive-Analytics-and-Modelling
+# Price Prediction and Modeling of Used Cars
 
 The data set is a list of second hand cars (a snapshot of the current situation at a second hand car sales website) with their respective price, type of body mileage, engine volume, engine type, production model and information about the time when they were registered. Each row comes from a different customer who was willing to sell their car through the platform.
 
