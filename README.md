@@ -1,6 +1,6 @@
 # Price Prediction and Modeling of Used Cars
 
-The data set is a list of second hand cars (a snapshot of the current situation at a second hand car sales website) with their respective price, type of body mileage, engine volume, engine type, production model and information about the time when they were registered. Each row comes from a different customer who was willing to sell their car through the platform.
+The [data set](https://github.com/gregoryoffodum/Price-Prediction-and-Modeling-of-Used-Cars/blob/main/Cars%20dataset.csv) is a list of second hand cars (a snapshot of the current situation at a second hand car sales website) with their respective price, type of body mileage, engine volume, engine type, production model and information about the time when they were registered. Each row comes from a different customer who was willing to sell their car through the platform.
 
 ## Objective
 
